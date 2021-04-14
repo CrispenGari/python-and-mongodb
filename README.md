@@ -2,7 +2,7 @@
 * this is a quick walk through python working with mongoD
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
+<img width="60%" src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
 <img src="https://img.shields.io/static/v1?label=package&message=pymongo&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=database&message=mongodb&color=green"/>
 </p>
