@@ -1,5 +1,5 @@
 import pymongo
-password ="NqY553VKBy4jXcm"
+password ="YOUR_PASSWORD"
 databaseName = "customers"
 connection_url = f'mongodb+srv://crispen:{password}@cluster0.zzr2y.mongodb.net/{databaseName}?retryWrites=true&w=majority'
 client = pymongo.MongoClient(connection_url)
