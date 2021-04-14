@@ -2,12 +2,12 @@
 * this is a quick walk through python working with mongoD
 
 <p align="center">
-<img width="60%" src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
+<img  src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
 <img src="https://img.shields.io/static/v1?label=package&message=pymongo&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=database&message=mongodb&color=green"/>
 </p>
 <p align="center">
-<img align="center" src="https://i.morioh.com/2020/02/24/a220d7ff8d12.jpg" alt="py+mongo"/>
+<img width="60%" align="center" src="https://i.morioh.com/2020/02/24/a220d7ff8d12.jpg" alt="py+mongo"/>
 </p>
 
 ### Setup
