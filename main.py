@@ -7,3 +7,4 @@ customers = db["customers"]
 cursor = customers.find().limit(5)
 for doc in cursor:
     print(doc)
+
