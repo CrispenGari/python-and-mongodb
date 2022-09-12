@@ -11,7 +11,7 @@
 </p>
 
 ### Setup
-1. First you need to download and install [MongoDB database](https://www.mongodb.com/)
+1. First you need to download and install [MongoDB database](https://www.mongodb.com/try/download/community)
 2. Install pymongo
    * to install pymongo run the command
    ````shell
